@@ -24,4 +24,3 @@ for chain in list_of_supported_chain:
 attach(f"{CONFIG}/assets/assets.py")
 attach(f"{BASE_FILE}app/swap.py")
 
-staking_wallet = "cosmos13uxtw430xyr2x387j4d3jkwzs0c03qpnapw46m"
