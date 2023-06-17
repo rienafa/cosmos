@@ -10,4 +10,4 @@ class Axelar(Blockchains):
 
 
 AXELAR = Axelar()
-wallet.add_adress('axelar','axelar1kg0w2utlkcsca62cq7f2ke477z442e0d0frtnc')
+wallet.add_adress('axelar','YOUR_ADRESS')
