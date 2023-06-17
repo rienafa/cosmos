@@ -4,7 +4,7 @@
 * Dans le fichier : ``` importation.py ``` il y a une variable ``` BASE_FILE = "Cosmos2.0/" ``` il faut remplacer ```Cosmos2.0 ``` par le nom du dossier racine où le truc est installer. 
 * Dans le fichier : ``` importation.py ``` il y a une variable ``` list_of_supported_chain ``` où l'on peut ajouter des chains cosmos. Je donne la démarche pour installer une chaine particulière.
   * ``` list_of_supported_chain = ['crescent'] ```
-  * installation du logiciel de la chain : par exemple pour la chaine Crescent 
+  * installation du logiciel de la chain : par exemple pour la chaine Crescent (regarder le github de crescent pour voir la préocédure que j'ai récopié ici : https://github.com/crescent-network/crescent. 
     ``` 
         git clone https://github.com/crescent-network/crescent.git
         cd crescent && git checkout release/v5.0.x
