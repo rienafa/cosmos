@@ -164,4 +164,4 @@ class Crescent(Blockchains):
 
 
 CRESCENT = Crescent()
-wallet.add_adress('crescent','cre1kg0w2utlkcsca62cq7f2ke477z442e0d00xxd5')
+wallet.add_adress('crescent','YOUR_ADRESS')

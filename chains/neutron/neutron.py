@@ -82,4 +82,4 @@ class  Neutron(Blockchains):
 ### deux pools sur astroport neutron ! 
 
 NEUTRON = Neutron()
-wallet.add_adress('neutron','neutron1kg0w2utlkcsca62cq7f2ke477z442e0d0cupz7')
+wallet.add_adress('neutron','YOUR_ADRESS')

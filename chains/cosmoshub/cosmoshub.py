@@ -6,4 +6,4 @@ class Cosmoshub(Blockchains):
 		return f"The {self.name} blockchain controller"
 		
 COSMOSHUB = Cosmoshub()
-wallet.add_adress('cosmoshub','cre1kg0w2utlkcsca62cq7f2ke477z442e0d00xxd5')
+wallet.add_adress('cosmoshub','YOUR_ADRESS')

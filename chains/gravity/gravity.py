@@ -9,4 +9,4 @@ class Gravitybridge(Blockchains):
 ### sur gravity on peut vendre les rewards 
 
 GRAVITY = Gravitybridge()
-wallet.add_adress('gravitybridge','gravity1kg0w2utlkcsca62cq7f2ke477z442e0d0h8ma3')
+wallet.add_adress('gravitybridge','YOUR_ADRESS')

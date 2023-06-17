@@ -168,7 +168,5 @@ class Comdex(Blockchains):
 COMDEX = Comdex()
 
 ###  enregistrement de l'adresse 
-wallet.add_adress("comdex",'comdex1kg0w2utlkcsca62cq7f2ke477z442e0dvghppw')
+wallet.add_adress("comdex",'YOUR_ADRESS')
 
-# pool 
-# swap matrix

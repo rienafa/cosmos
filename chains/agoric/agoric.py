@@ -8,5 +8,4 @@ class Agoric(Blockchains):
     ### il faudrait integrer les liquidations et les vaults mais je ne sais pas comment faire. 
     
 AGORIC = Agoric()
-wallet.add_adress('agoric','agoric1f0g6v7ujqu579y0nkzx9wl63sclnq23nemted8')
-### comment deriver les adresses ? 
+wallet.add_adress('agoric',"YOUR_ADRESS")

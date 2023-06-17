@@ -188,7 +188,7 @@ for p in P:
 #WHITE_LIST_ASSET_OSMO = {denom : pool for denom,pool in ASSET_OSMO.items() if Asset.instances_by_denom[denom] in WHITE_LIST}
 
 
-wallet.add_adress("osmosis",'osmo1kg0w2utlkcsca62cq7f2ke477z442e0druxnwt')
+wallet.add_adress("osmosis",'YOUR_ADRESS')
 
 
 ### mettre dans un autre dossier

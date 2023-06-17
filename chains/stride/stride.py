@@ -10,4 +10,4 @@ class Stride(Blockchains):
 		return self.request(((query)))['host_zone']
 
 STRIDE = Stride()
-wallet.add_adress('stride','stride1kg0w2utlkcsca62cq7f2ke477z442e0dgv4lv4')
+wallet.add_adress('stride','YOUR_ADRESS')
