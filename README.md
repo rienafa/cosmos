@@ -1,6 +1,6 @@
 # instructions :
 * utilisation de python et de sagemaths (bibliothèque mathématique sous python) 
-* Récupération de chain-registry (que je n'arrive pas à inclure dans mon dossier) :  ``` git clone https://github.com/cosmos/chain-registry ```
+* Récupération de chain-registry (que je n'arrive pas à inclure dans mon dossier) :  ``` git clone https://github.com/cosmos/chain-registry ``` et il faut que  le dossier ``` chain-registry ``` soit au même niveau que les autres sous-répertoire que les répertoires de ce dossier (rohhh la phrase de merde :)
 * Dans le fichier : ``` importation.py ``` il y a une variable ``` BASE_FILE = "Cosmos2.0/" ``` il faut remplacer ```Cosmos2.0 ``` par le nom du dossier racine où le truc est installer. 
 * Dans le fichier : ``` importation.py ``` il y a une variable ``` list_of_supported_chain ``` où l'on peut ajouter des chains cosmos. Je donne la démarche pour installer une chaine particulière.
   * ``` list_of_supported_chain = ['crescent'] ```
